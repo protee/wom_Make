@@ -1,0 +1,8 @@
+# Ignore everything in the root, including subdirectories
+*
+
+# But keep .md files in the root
+!*.md
+
+# Keep .gitignore
+!.gitignore
