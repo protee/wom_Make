@@ -106,8 +106,7 @@ wom_Make is a **commercial component** and is part of the paid ogTools suite. A 
 
 wom_Make supports the following languages out-of-the-box:
 
-- 🇺🇸 English (EN), 🇫🇷 French (FR), 🇪🇸 Spanish (ES), 🇩🇪 German (DE)
-- More on demand
+- 🇺🇸 English (EN) – For developers !
 
 Localization affects error messages, UI prompts, and built-in pane texts.
 
