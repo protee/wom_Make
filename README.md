@@ -8,7 +8,7 @@
     <strong style="font-size: 1em;">Tagline:</strong> Build and more. One breath.
   </div>
   <div>
-    <img src="https://www.protee.org/images/wom_Make/wom_Make.png" alt="wom_Make Logo" width="60" style="border-radius: 12px;">
+    <img src="https://www.protee.org/images/wom_Make/wom_Make.png" alt="wom_Make Logo" width="120" style="border-radius: 12px;">
   </div>
 </div>
 
@@ -16,6 +16,7 @@
 # wom_Make
 
 [![4D Component](https://img.shields.io/badge/4D-Component-blue)](#)
+[![4D Pop](https://img.shields.io/badge/4D-Pop-blue)](#)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg)](#license)
 [![Platform: macOS & Windows](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey)](#)
 [![4D v21+](https://img.shields.io/badge/4D-v21%2B-brightgreen)](#)
