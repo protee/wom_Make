@@ -53,7 +53,7 @@ It's a **development component** that eliminates the manual, error-prone tasks a
 ### Prerequisites
 - **4D v21** or higher (Project mode recommended).
 - [**wok_Krolific**](https://github.com/protee/wok_Krolific) – Licensing component (mandatory dependency).
-- The [**4D SVG component**](https://github.com/4d/4D-SVG) must be available in your project.
+- [**wox_Xlibrary**](https://github.com/protee/wox_Xlibrary) – Global library (mandatory dependency).
 
 ### Installation via Dependencies Manager (GitHub)
 
@@ -85,22 +85,14 @@ Starting with 4D v21, the recommended way to install wom_Make (and any ogTools c
 
 ---
 
-## Part of the ogTools Suite
+## ogTools Suite – Dependencies
 
 wom_Make is the build and automation pillar of the comprehensive **ogTools suite**—an integrated development ecosystem for 4D. Other key components include:
 
-| Component | Description |
-|-----------|-------------|
-| **wok_Krolific** | Centralized licensing system. |
-| **wox_Xlibrary** | Core utilities for everyday development tasks. |
-| **zen_Nucleus** | The complete ORDA framework binding your database to a sophisticated UI. |
-| **woc_Colours** | Advanced, indexed color management engine. |
-| **waz_Wazar** | Intelligent UI widgets for modern interfaces. |
-| **wor_Recursive** | Manage hierarchical data with ease. |
-| **wob_Boxes** | Secure, Dropbox-like file repository. |
-| **wod_DevTools** | Instant documentation generation. |
-
-> Together, these components form a powerful framework that allows developers to focus on unique business logic rather than reinventing the wheel.
+| Icon | Component | Description |
+|------|-----------|-------------|
+| <img src="https://www.protee.org/images/wok_Krolific/wok_Krolific.png" alt="wok_Krolific Logo" width="60" style="border-radius: 12px;"> | **wok_Krolific** | License manager. |
+| <img src="https://www.protee.org/images/wox_Xlibrary/wox_Xlibrary.png" alt="wox_Xlibrary Logo" width="60" style="border-radius: 12px;"> | **wox_Xlibrary** | Core utilities for everyday development tasks. |
 
 ---
 
@@ -114,10 +106,8 @@ wom_Make is a **commercial component** and is part of the paid ogTools suite. A 
 
 wom_Make supports the following languages out-of-the-box:
 
-- 🇺🇸 English (EN)
-- 🇫🇷 French (FR)
-- 🇪🇸 Spanish (ES)
-- 🇩🇪 German (DE)
+- 🇺🇸 English (EN), 🇫🇷 French (FR), 🇪🇸 Spanish (ES), 🇩🇪 German (DE)
+- More on demand
 
 Localization affects error messages, UI prompts, and built-in pane texts.
 
@@ -126,7 +116,6 @@ Localization affects error messages, UI prompts, and built-in pane texts.
 ## Support & Resources
 
 - **Official Website**: [https://www.protee.org](https://www.protee.org)
-- **4D Forum**: [Discuss ogTools suite](https://discuss.4d.com) – A vibrant community for questions and best practices.
 - **Documentation**: Full documentation and HDI (Host Database Interface) demos are included with your purchase.
 
 For direct inquiries:
@@ -137,7 +126,7 @@ For direct inquiries:
 
 ## About the Creator
 
-wom_Make and the ogTools suite are developed by **Protée sarl**, a company with over 30 years of expertise in 4D development. Led by Olivier Grimbert, the team focuses on delivering high-quality, production-grade tools that enhance developer productivity and application reliability.
+wom_Make and the ogToolsSuite are developed by **Protée sarl**, a company with over 30 years of expertise in 4D development. Led by Olivier Grimbert, the team focuses on delivering high-quality, production-grade tools that enhance developer productivity and application reliability.
 
 ---
 
