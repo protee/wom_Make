@@ -94,8 +94,6 @@ wom_Make is the build and automation pillar of the comprehensive **ogTools suite
 | <img src="https://www.protee.org/images/wok_Krolific/wok_Krolific.png" alt="wok_Krolific Logo" width="60" style="border-radius: 12px;"> | **wok_Krolific** | License manager. |
 | <img src="https://www.protee.org/images/wox_Xlibrary/wox_Xlibrary.png" alt="wox_Xlibrary Logo" width="60" style="border-radius: 12px;"> | **wox_Xlibrary** | Core utilities for everyday development tasks. |
 
----
-
 ## License
 
 wom_Make is a **commercial component** and is part of the paid ogTools suite. A valid license is required for use. For licensing options and trial requests, please contact the sales team directly.
@@ -107,8 +105,6 @@ wom_Make is a **commercial component** and is part of the paid ogTools suite. A 
 wom_Make supports the following languages out-of-the-box:
 
 - 🇺🇸 English (EN) – For developers !
-
-Localization affects error messages, UI prompts, and built-in pane texts.
 
 ---
 
