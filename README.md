@@ -16,7 +16,7 @@
 # wom_Make
 
 [![4D Component](https://img.shields.io/badge/4D-Component-blue)](#)
-[![4D Pop](https://img.shields.io/badge/4D-Pop-blue)](#)
+[![4DPop Compatible](https://img.shields.io/badge/4DPop-Compatible-orange)](#)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg)](#license)
 [![Platform: macOS & Windows](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey)](#)
 [![4D v21+](https://img.shields.io/badge/4D-v21%2B-brightgreen)](#)
@@ -46,6 +46,7 @@ It's a **development component** that eliminates the manual, error-prone tasks a
     - **Stapling**: Staples the notarization ticket to the `.dmg` for offline verification.
 - **Customizable Icon**: Displays your product's icon from `Resources/pictures/logo_product.png` in the final build, or a generic one if not found.
 - **Exceptionally Simple**: Designed for ease of use, especially for automating the builds of your components.
+- **4DPop toolbar Compatible**. It includes a 4DPop.json manifest for easy integration.
 
 ---
 
@@ -64,7 +65,8 @@ Starting with 4D v21, the recommended way to install wom_Make (and any ogTools c
 2. Click the `+` button and select **Add a dependency from a Git URL**.
 3. Enter the following Git URL:`protee/wom_Make`
 4. Choose the desired version (e.g., `main`, `latest`, or a specific release tag).
-5. Confirm the installation – the component will be automatically fetched from GitHub, placed in the `Components` folder, and linked to your project.
+5. Confirm the installation – the component will be automatically fetched from GitHub, and linked to your project.
+6. Don't forget to open your database structure settings dialog and go to the Security page to enable, if necessary, the Execute the "On host database event" method of the component option. This ensure your component is well initialised automatically.
 
 > **Note**: For team development, commit the dependency configuration file (`dependencies.json`) to your source control so all team members automatically fetch the same version from GitHub.
 
