@@ -1,27 +1,25 @@
+<!-- Title and badges -->
 <div align="center">
 
-<!-- Header with left text and right logo -->
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <div style="text-align: left;">
-    <strong style="font-size: 1.2em;">The Genesis Engine</strong><br>
-    <strong style="font-size: 1em;">Mantra:</strong> One command, a thousand builts.<br>
-    <strong style="font-size: 1em;">Tagline:</strong> Build and more. One breath.
-  </div>
-  <div>
-    <img src="https://www.protee.org/images/wom_Make/wom_Make.png" alt="wom_Make Logo" width="120" style="border-radius: 12px;">
-  </div>
-</div>
-
-<!-- Title and badges -->
 # wom_Make
 
 [![4D Component](https://img.shields.io/badge/4D-Component-blue)](#)
+[![4D v21+](https://img.shields.io/badge/4D-v21%2B-brightgreen)](#)
 [![4DPop Compatible](https://img.shields.io/badge/4DPop-Compatible-orange)](#)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg)](#license)
 [![Platform: macOS & Windows](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey)](#)
-[![4D v21+](https://img.shields.io/badge/4D-v21%2B-brightgreen)](#)
 
 </div>
+
+---
+
+<img src="https://www.protee.org/images/wom_Make/wom_Make.png" alt="wom_Make Logo" width="120" align="right">
+
+<strong style="font-size:1.2em">The Genesis Engine</strong><br>
+<strong>Mantra:</strong> One command, a thousand builts.<br>
+<strong>Tagline:</strong> Build and more. One breath.
+
+<br clear="both">
 
 ## Overview
 
